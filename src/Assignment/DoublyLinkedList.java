@@ -1,4 +1,4 @@
-package Assignmet;
+package Assignment;
 
 public class DoublyLinkedList {
     class Node {

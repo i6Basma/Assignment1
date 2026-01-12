@@ -1,4 +1,4 @@
-package Assignmet;
+package Assignment;
 
 public class CircularLinkedList {
     class Node {

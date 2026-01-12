@@ -1,4 +1,4 @@
-package Assignmet;
+package Assignment;
 
 import java.util.Arrays;
 
